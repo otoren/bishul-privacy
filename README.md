@@ -1,0 +1,2 @@
+# bishul-privacy
+Privacy Policy
